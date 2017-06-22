@@ -1,8 +1,24 @@
-h1{
+h2{
 
+	color:#ffffff;
+}
+h3{
 	color:#ffffff;
 }
 body{
 background-color: black;
 
+}
+#mover{
+	position: relative;
+	top: -3px;
+	right: -95px;
+}
+#mover2{
+	position: relative;
+	top: -620px;
+	right:-900px;
+}
+#ds{
+text-align: right; 
 }
